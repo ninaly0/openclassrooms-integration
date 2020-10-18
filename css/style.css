@@ -463,6 +463,7 @@ ol li:hover {
     content:'#';
     width: 18px;
     height:18px;
+    line-height:18px;
     border-radius: 50%;
     background:#E0E0E0;
     text-align: center;
